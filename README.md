@@ -1,7 +1,5 @@
-# BoomBikes-Linear-Regression-Assignment
+# BoomBikes Sharing-Linear-Regression-Assignment
 A Mutiple Linear Regression Assignment with RFE and MinMax Scaling
-# Bike Sharing Assignment
-
 
 ## Introduction
 
